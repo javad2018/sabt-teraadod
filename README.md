@@ -13,6 +13,8 @@
 <img width="1920" height="1032" alt="SabtTeraadod 1" src="https://github.com/user-attachments/assets/2851d9b7-97de-4df6-a1f5-4bd1901f125d" />
 <img width="1920" height="1032" alt="SabtTeraadod 2" src="https://github.com/user-attachments/assets/d1edbb30-87b8-46af-b063-c60eacab02e1" />
 <img width="1920" height="1032" alt="SabtTeraadod 3" src="https://github.com/user-attachments/assets/9da8aecd-93c2-42eb-87ac-3ae55691564f" />
+<img width="1920" height="1032" alt="SabtTeraadod 4" src="https://github.com/user-attachments/assets/8cf069a1-ef20-483c-b14d-4ed2211eb3a8" />
+
 
 
 ## امکانات
