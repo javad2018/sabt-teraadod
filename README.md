@@ -1,5 +1,6 @@
 <div dir="rtl" align="right">
 
+
 # سامانهٔ ثبت تردد
 
 **نرم‌افزار ویندوزی ثبت ساعت ورود و خروج کارکنان** با تقویم شمسی، محاسبهٔ کارکرد و اضافه‌کاری، مدیریت مرخصی، محاسبهٔ حقوق، داشبورد و نمودار، یادآورها و خروجی اکسل و PDF.
@@ -9,6 +10,10 @@
 [**دانلود آخرین نسخه**](../../releases/latest) · [راهنمای نصب](#نصب-و-راه‌اندازی) · [امکانات](#امکانات) · [پشتیبان‌گیری](#پشتیبان‌گیری-خودکار) · [به‌روزرسانی](#به‌روزرسانی-از-داخل-برنامه)
 
 ---
+<img width="1920" height="1032" alt="SabtTeraadod 1" src="https://github.com/user-attachments/assets/2851d9b7-97de-4df6-a1f5-4bd1901f125d" />
+<img width="1920" height="1032" alt="SabtTeraadod 2" src="https://github.com/user-attachments/assets/d1edbb30-87b8-46af-b063-c60eacab02e1" />
+<img width="1920" height="1032" alt="SabtTeraadod 3" src="https://github.com/user-attachments/assets/9da8aecd-93c2-42eb-87ac-3ae55691564f" />
+
 
 ## امکانات
 
